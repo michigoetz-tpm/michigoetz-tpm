@@ -24,6 +24,7 @@ Beyond Celonis, I advocate as speaker and join podcasts on Technical Program Man
 ## 🔨 Technical Program Manager Use Case Library
 
 🔗 Check out my [TPM Use Case Library](https://github.com/michigoetz-tpm/tpm-use-cases)
+
 🚧 Technical Program Manager Skill Library - coming in March 2026
 
 ## 🚀 Writing about TPM, Engineering, and Leadership

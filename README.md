@@ -21,6 +21,11 @@ Beyond Celonis, I advocate as speaker and join podcasts on Technical Program Man
 - **Executive & Cross-Functional Alignment:** Stakeholder management, crisp written comms, QBR/SteerCo narratives, negotiating tradeoffs across Eng/Product/GTM
 - **Engineering & Platform Fluency**: SDLC awareness, platform/enterprise SaaS context, release readiness, operational excellence, developer experience enablement
 
+## 🔨 Technical Program Manager Use Case Library
+
+🔗 Check out my [TPM Use Case Library](https://github.com/michigoetz-tpm/tpm-use-cases)
+🚧 Technical Program Manager Skill Library - coming in March 2026
+
 ## 🚀 Writing about TPM, Engineering, and Leadership
 I enjoy sharing templates, micro guides, action items for TPMs, Engineers, Managers and Leadership
 

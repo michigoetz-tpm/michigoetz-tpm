@@ -1,7 +1,7 @@
 ## Hi! I'm Michi 👋
 
 ## About Me
-“From aerospace engineering to product launches—great programs need precision, alignment, and mission control.”
+“From aerospace engineering to product launches, great programs need precision, alignment, and mission control.”
 
 🚀 On a mission to scale program execution across AI, Platform, Frontend, APIs at global scale
 👨‍💻 Director of TPM @ Celonis | Built TPM org from 0 → 20+ | Leading 30+ programs across 40+ teams
